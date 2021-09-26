@@ -13,6 +13,7 @@
 # Features:
 <details>
     <summary><b>Click Here For More Details</b></summary>
+
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/TN57-BotZ/MirrorLeexhBot)
 
 ## By Slam Devs
