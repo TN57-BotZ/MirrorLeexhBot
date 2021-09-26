@@ -16,6 +16,8 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/TN57-BotZ/MirrorLeexhBot)
 
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/TN57-BotZ/MirrorLeexhBot)
 ## By Slam Devs
 - qBittorrent
 - Leech supported
